@@ -1,0 +1,15 @@
+* <2017-03-08>
+** Fait:
+   - étalonnage avec médianes
+** A faire:
+   - faire un programme pour tester l'étalonnage séparemment
+   - changer d'algorithme pour qu'il soit symétrique
+   - prendre en compte les données d'un premier tour lors
+     d'un second tour
+
+* Mer  8 fév 2017 15:25:18 CET
+A faire:
+	- Étalonnage et reconnaissance
+	- Suivi de ligne
+* Mer 16 nov 2016 15:34:20 CET
+	- A FAIRE : monter le robot très rapidement!
